@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-bg{
+    background-color: #264653;
+}
+.btn-btn{
+    background-color: #E76F51;
+}
+.grey1{
+   filter: grayscale(100%);
+} 
+.faq{
+    width: 100%;
+}
+.fa-star.filled{
+    color: goldenrod;
+    
+}
+.best-seller{
+  background-image: linear-gradient(gray, black );
+}
+.btn{
+    background-color: indianred;
+}
